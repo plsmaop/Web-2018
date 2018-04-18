@@ -1,0 +1,53 @@
+#app {
+    text-align: center;
+}
+
+.menu {
+    display: inline-block;
+    margin: 1%;
+}
+
+#list {
+    text-align: center;
+}
+
+.item {
+    margin-bottom: 2%;
+}
+
+.exercise {
+    position: relative;
+    padding-top: 0.5%; 
+    margin-left:40%;
+    margin-right:40%;
+    height: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 0.5px;
+    background-color: DeepSkyBlue;
+}
+
+.hover {
+    background-color: aquamarine;
+}
+
+.exercising {
+    background-color: aquamarine;
+}
+
+.done {
+    background-color: red;
+}
+
+.del {
+    display: inline-block;
+    height: 60px;
+    padding-top: 6%;
+    margin:3%;
+}
+
+.X {
+    position: relative;
+    margin-top: 10%;
+    font-size: 5em;
+}
